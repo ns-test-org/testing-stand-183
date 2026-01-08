@@ -21,7 +21,7 @@ export default function Landing() {
 
       <div className="text-center">
         <h1 className="text-6xl md:text-8xl font-bold text-white mb-4 drop-shadow-2xl">
-          Hello World
+          Merry Christmas
         </h1>
         <p className="text-xl md:text-2xl text-white/90 font-light">
           Welcome to your new landing page
@@ -30,5 +30,6 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
