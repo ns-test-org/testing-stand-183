@@ -3,7 +3,7 @@
 import { useState } from 'react';
 
 export default function Landing() {
-  const [isDark, setIsDark] = useState(false);
+  const [isDark, setIsDark] = useState(true);
 
   return (
     <div className={`relative h-screen w-full flex items-center justify-center transition-colors duration-500 ${
@@ -30,6 +30,7 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
 
