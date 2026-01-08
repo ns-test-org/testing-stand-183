@@ -20,7 +20,7 @@ export default function Landing() {
       </button>
 
       <div className="text-center">
-        <h1 className="text-6xl md:text-8xl font-bold mb-4 drop-shadow-2xl bg-gradient-to-r from-black via-gray-500 to-white bg-clip-text text-transparent">
+        <h1 className="text-6xl md:text-8xl font-bold mb-4 drop-shadow-2xl bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
           Merry Christmas
         </h1>
         <p className="text-xl md:text-2xl text-white/90 font-light">
@@ -30,6 +30,7 @@ export default function Landing() {
     </div>
   );
 }
+
 
 
 
